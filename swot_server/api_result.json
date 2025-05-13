@@ -1,0 +1,31 @@
+{
+  "analysis": {
+    "Opportunities": [
+      "Apple. Mac Mini (MGNR3HN/A) M1 Chip (8 GB RAM/integrated 8-core GPU Graphics/256 GB SSD Capacity/Mac OS Big Sur) Microtower ... Must buy! ... Absolutely a stunning\u00a0..."
+    ],
+    "Strengths": [],
+    "Threats": [],
+    "Weaknesses": [
+      "2024 Mac Mini Desktop Computer with M4 chip with 10-core CPU and 10-core GPU: Built for Apple Intelligence, 16GB Unified Memory, 256GB SSD Storage, Gigabit\u00a0...",
+      "Mac laptops. Back; Mac laptops \u00b7 All models \u00b7 Mac Does that \u00b7 Mac for Students \u00b7 Mac For Business \u00b7 Mac desktops. Back; Mac desktops \u00b7 All models \u00b7 Apple TV\u00a0...",
+      "Apple MacBook Air Laptop: Apple M1 chip, 13.3-inch/33.74 cm Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, FaceTime HD Camera, Touch ID.",
+      "2024 MacBook Pro Laptop with M4 chip with 10-core CPU and 10-core GPU: Built for Apple Intelligence, (14.2\u2032\u2032) Liquid Retina XDR Display, 16GB Unified Memory,\u00a0...",
+      "Apple 2024 Mac Mini Desktop Computer with M4 chip with 10\u2011core CPU and 10\u2011core GPU: Built for Apple Intelligence, 24GB Unified Memory, 512GB SSD Storage,\u00a0...",
+      "Image of Apple 2025 MacBook Air (13-inch, Apple M4 chip with 10 \u00b7 Image of Apple 2025 MacBook Air (13-inch, Apple M4 chip with 10.",
+      "Features & details \u00b7 STRIKINGLY THIN DESIGN \u2013 The redesigned MacBook Air is more portable than ever and weighs just 1.24 kg (2.7 pounds). \u00b7 SUPERCHARGED BY M2 \u2013\u00a0...",
+      "USB Type C 3.1/3.0 to USB A Female OTG Adapter Compatible with MacBook Pro/Air 2019 2018 2017, Galaxy S20 S20+ Ultra Note 10 S9 S8USB Adapter, MacBook Air 2018\u00a0...",
+      "Apple 2024 MacBook Pro Laptop with M4 Pro chip with 12\u2011core CPU and 16\u2011core GPU: Built for Apple Intelligence, (14.2\u2033) Liquid Retina XDR Display,..."
+    ]
+  },
+  "chart": "<<base64 image data removed for display>>",
+  "local_file": "D:\\mcp\\swot_server\\analysis_results\\apple_mac_swot_20250417_212703.json",
+  "pdf_file": "D:\\mcp\\swot_server\\pdf_reports\\apple_mac_swot_20250417_212703.pdf",
+  "product": "apple mac",
+  "source": "api",
+  "summary": {
+    "negative": 9,
+    "positive": 1,
+    "positive_percentage": 10.0,
+    "total_reviews": 10
+  }
+}
