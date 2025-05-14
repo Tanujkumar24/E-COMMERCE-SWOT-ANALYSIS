@@ -33,6 +33,81 @@ This project allows users to perform a structured SWOT analysis on a given produ
 ├── images/             # Folder for screenshots and architecture images
 └── README.md
 ```
+# 🛒 E-commerce Product SWOT Analysis API
+
+This project provides an automated **SWOT (Strengths, Weaknesses, Opportunities, Threats) analysis** tool for e-commerce products using **Natural Language Processing (NLP)**.
+
+It combines:
+- 🔎 **Google Custom Search API** to fetch reviews from Amazon and Flipkart.
+- 🧠 **Hugging Face Transformers** to analyze sentiment.
+- ⚙️ **Flask REST API** to provide an `/analyze` endpoint.
+- 📄 **FPDF** to generate downloadable SWOT PDF reports.
+
+Useful for **market researchers**, **e-commerce analysts**, and **product managers** to understand consumer sentiment and gain insights into products.
+
+---
+
+## 🚀 Features
+
+- 🔍 Scrapes product reviews from e-commerce sites.
+- 💬 Analyzes sentiment using DistilBERT.
+- 📊 Visualizes sentiment distribution with charts.
+- ✅ Categorizes reviews into SWOT components.
+- 📄 Generates downloadable PDF reports.
+- 🔗 REST API integration.
+
+---
+
+## 🧰 Tech Stack
+
+- Python 3
+- Flask
+- Hugging Face Transformers
+- Google Custom Search API
+- Matplotlib & Pandas
+- FPDF
+
+---
+
+## 📁 Project Structure
+
+```
+.
+├── app.py             # Flask app exposing the /analyze endpoint
+├── swot.py            # CLI tool or script to call the /analyze API
+├── analysis_results/  # JSON files storing analysis data
+├── pdf_reports/       # SWOT analysis PDF reports
+├── test_swot.py       # Test script to validate API response
+├── requirements.txt   # Dependencies
+└── README.md          # Documentation
+```
+
+---
+
+## 📦 Installation & Setup
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/ecommerce-swot-analyzer.git
+cd ecommerce-swot-analyzer
+
+# (Optional) Create and activate virtual environment
+python -m venv .env
+source .env/bin/activate  # On Windows: .env\Scripts\activate
+
+# Install dependencies
+pip install -r requirements.txt
+```
+
+---
+
+## 🔐 Configuration
+
+Replace placeholders in `app.py` with your actual credentials:
+```python
+GOOGLE_API_KEY = "your_google_api_key"
+SEARCH_ENGINE_ID = "your_search_engine_id"
+```
 
 ---
 
