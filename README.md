@@ -39,10 +39,17 @@ This project allows users to perform a structured SWOT analysis on a given produ
 ## 📸 Screenshots
 
 ### 1. Swagger Endpoint Test  
-![API Test](images/swagger_test.png)
+![MCP Test](https://github.com/Tanujkumar24/SWOT-ANALYSIS/blob/main/swot_server/screenshots/mcp1.png)
+![MCP Test2](https://github.com/Tanujkumar24/SWOT-ANALYSIS/blob/main/swot_server/screenshots/mcp2.png)
+![MCP Test3](https://github.com/Tanujkumar24/SWOT-ANALYSIS/blob/main/swot_server/screenshots/mcp3.png)
 
 ### 2. Console Output  
-![Console Logs](images/console_output.png)
+![output](https://github.com/Tanujkumar24/SWOT-ANALYSIS/blob/main/swot_server/screenshots/result1.png)
+![output2](https://github.com/Tanujkumar24/SWOT-ANALYSIS/blob/main/swot_server/screenshots/result2.png)
+
+### 3. Claude Output
+![claude1](https://github.com/Tanujkumar24/SWOT-ANALYSIS/blob/main/swot_server/screenshots/claude-result1.png)
+![claude2](https://github.com/Tanujkumar24/SWOT-ANALYSIS/blob/main/swot_server/screenshots/claude-result2.png)
 
 ---
 
