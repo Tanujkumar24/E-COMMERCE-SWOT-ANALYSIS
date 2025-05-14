@@ -3,7 +3,7 @@
 
 A Python-based tool for performing SWOT (Strengths, Weaknesses, Opportunities, and Threats) analysis using a Flask API, integrated with [FastMCP](https://www.npmjs.com/package/@modelcontextprotocol/inspector) to enable tool execution via MCP-compatible environments.
 
-![SWOT Banner](images/swot_banner.png)
+![WORKFLOW](https://github.com/Tanujkumar24/E-COMMERCE-SWOT-ANALYSIS/blob/main/swot_server/diagram.png)
 
 ---
 
